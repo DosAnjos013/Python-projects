@@ -1,1 +1,1 @@
-# Repositório privado para estudos
+# Repositório de estudos
